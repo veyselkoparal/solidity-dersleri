@@ -15,8 +15,8 @@ contract Degisken{
     bytes public bytedeger = "ABC";
 
     //array
-    string[] public names = ["veysel", "karani", "koparal"];
-    string[4] public name2 = ["esra", "ceren", "havva"];
+    string[] public names = ["Ahmet", "Mahmut", "Caner"];
+    string[4] public name2 = ["Melike", "Ceren", "Kehribar"];
 
     //mapping -> dictionary key->values
     mapping (int => bool) public maaslar;
